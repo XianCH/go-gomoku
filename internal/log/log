@@ -1,0 +1,5 @@
+[2024-03-02 16:50:50] [INFO] hello my log
+[2024-03-02 16:53:25] [INFO] hello my log
+[2024-03-02 16:53:25] [DEBUG] FUCK U [/home/x14n/code/goproj/x14n/five-in-five/internal/game/test/test.go:14]
+[2024-03-02 16:53:25] [WARN] FUCK U [/home/x14n/code/goproj/x14n/five-in-five/internal/game/test/test.go:15]
+[2024-03-02 16:53:25] [ERROR] ERROR [/home/x14n/code/goproj/x14n/five-in-five/internal/game/test/test.go:16]
